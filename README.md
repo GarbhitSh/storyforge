@@ -52,7 +52,7 @@ Storyforge uses a hybrid approach for real-time updates:
 
 ## 🧩 Project Structure
 
-\`\`\`
+
 storyforge/
 ├── app/                  # Next.js app router pages
 │   ├── game/             # Online multiplayer game routes
@@ -66,17 +66,8 @@ storyforge/
 ├── lib/                  # Utility functions and game logic
 ├── public/               # Static assets
 └── scripts/              # Database setup scripts
-\`\`\`
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## 📝 License
 
@@ -86,4 +77,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Next.js team for the amazing framework
 - Supabase for the real-time database capabilities
-- All contributors who have helped shape this project

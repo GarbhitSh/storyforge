@@ -50,23 +50,6 @@ Storyforge uses a hybrid approach for real-time updates:
 - **Supabase**: Backend as a service for database and real-time functionality
 - **Gemini API**: AI for dynamic story generation (optional)
 
-## 🧩 Project Structure
-
-
-storyforge/
-├── app/                  # Next.js app router pages
-│   ├── game/             # Online multiplayer game routes
-│   ├── local/            # Local multiplayer game routes
-│   └── ...
-├── components/           # React components
-├── hooks/                # Custom React hooks
-│   ├── use-game.ts       # Game state management hook
-│   ├── use-game-local.ts # Local game logic
-│   └── use-game-supabase.ts # Online game logic
-├── lib/                  # Utility functions and game logic
-├── public/               # Static assets
-└── scripts/              # Database setup scripts
-
 
 
 ## 📝 License

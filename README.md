@@ -1,9 +1,9 @@
 # 🎲 Storyforge
 
 Storyforge is an interactive multiplayer board game that combines traditional board game mechanics with dynamic storytelling. Players take turns rolling dice, moving across the board, and experiencing unique story events that unfold based on their choices and landing spots.
-![Storyforge Game](public/images/2.png)
 
-![Storyforge Game](public/images/board-background.png)
+
+![Storyforge Game](public/images/2.png)
 
 ## ✨ Features
 
@@ -13,6 +13,8 @@ Storyforge is an interactive multiplayer board game that combines traditional bo
 - **Interactive Game Board**: Visual board with animated player movements and dice rolls
 - **Custom Themes**: Various game themes that influence the storytelling
 - **Persistent Game State**: Save and resume games
+
+![Storyforge Game](public/images/board-background.png)
 
 ## 🎮 How to Play
 
